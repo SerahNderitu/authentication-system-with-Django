@@ -1,0 +1,10 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.navbar-inverse {
+    background-color: #425b76;
+    border-color: darkgray;
+}
